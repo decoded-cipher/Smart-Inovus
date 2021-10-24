@@ -1,4 +1,4 @@
-# Smart-Inovus
+# Smart Inovus Project
 **Smart Inovus** is an initiative to automate & digitize the workspace of [**Inovus Labs IEDC**](https://inovus-labs.web.app/). To be specific, the it includes the automation of Electrical Circuits & Appliances and Visualization of real-time Sensor Data.
 
 The Electrical Circuitary at Inovus Labs Workspace is a little bit over-kill for a single room. We have a total of 4 Swich Board Panels at 4 distinct corners of the room. The one near to the door houses the controls for Lights and Ceiling Fans.
